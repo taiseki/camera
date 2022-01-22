@@ -19,8 +19,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "iPod touch";
-const char* password = "tomakomaigm";
+const char* ssid = "******"; //WIFIのSSID
+const char* password = "******"; //WIFIのPW
 
 void startCameraServer();
 
