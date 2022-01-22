@@ -4,8 +4,8 @@
 const int x = 34;
 const int y = 35;
 
-const char* ssid = "iPod touch";
-char* password = "tomakomaigm";
+const char* ssid = "******"; //WIFIのSSID
+char* password = "******"; //WIFIのPW
 String m5camera_ipaddr = "172.20.10.2";
 
 WiFiClient client;
